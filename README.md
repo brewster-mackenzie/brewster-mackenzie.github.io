@@ -5,3 +5,9 @@ does this work
 
 [links are bad]
 [[no wiki style links]]
+
+[testing]
+
+[[testing]]
+
+[testing](testing.md)
